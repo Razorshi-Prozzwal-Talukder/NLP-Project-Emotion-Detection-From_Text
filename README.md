@@ -1,2 +1,2 @@
 # end2end-nlp-project
-End 2 End NLP Project with Python
+It is a NLP-based project. Where the input is text and the output is its reaction. In this project, SkLearn is used to load machine learning packages and get accuracy.
